@@ -40,7 +40,6 @@ class PlacesScreenState extends State<PlacesScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        //backgroundColor: Colors.transparent,
         appBar: AppBar(
             backgroundColor: Theme.of(context).colorScheme.inversePrimary,
             elevation: 0.0,

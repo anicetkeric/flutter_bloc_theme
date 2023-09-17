@@ -39,7 +39,6 @@ class RootApp extends StatelessWidget {
           theme: lightAppTheme,
           darkTheme: darkAppTheme,
           themeMode: state,
-       //   initialRoute: MyHomePage.routeName,
           initialRoute: PlacesScreen.routeName,
           onGenerateRoute: AppRouter.onGenerateRoute,
         );

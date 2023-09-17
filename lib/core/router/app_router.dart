@@ -13,7 +13,7 @@ class AppRouter {
     switch (settings.name) {
       case MyHomePage.routeName:
         return MaterialPageRoute(
-          builder: (_) => const MyHomePage(title: "tittle"),
+          builder: (_) => const MyHomePage(title: "title"),
         );
       case PlacesScreen.routeName:
         return MaterialPageRoute(
