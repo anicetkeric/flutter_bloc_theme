@@ -4,9 +4,20 @@ Flutter 3.0: Implement dynamic Theming using Bloc-Cubit
 ## Description
 Flutter 3.0: Implement dynamic Theming using Bloc-Cubit
 
-### Documentation
+## Design
+This project is based on the design made by [Chirag Mittal](https://dribbble.com/cmittal2011) on [Dribbble](https://dribbble.com/shots/22335825-On-Off-Switch-Light-Dark-Mode). 
+
+![App Design](https://github.com/anicetkeric/flutter_bloc_theme/blob/main/design/design-ui.jpg)
+
+
+## Documentation
 
 * [Publication link](#)
+
+## App Results
+
+![App Result](https://github.com/anicetkeric/flutter_bloc_theme/blob/main/design/result.gif)
+
 
 ## Author
 
