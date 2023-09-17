@@ -1,16 +1,22 @@
-# flutter_bloc_theme
+## flutter_bloc_theme
+Flutter 3.0: Implement dynamic Theming using Bloc-Cubit
 
-A new Flutter project.
+## Description
+Flutter 3.0: Implement dynamic Theming using Bloc-Cubit
 
-## Getting Started
+### Documentation
 
-This project is a starting point for a Flutter application.
+* [Publication link](#)
 
-A few resources to get you started if this is your first Flutter project:
+## Author
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+👤 **anicetkeric**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Website: https://medium.com/@boottechnologies-ci
+* Twitter: [@AnicetKEric](https://twitter.com/AnicetKEric)
+* Github: [@anicetkeric](https://github.com/anicetkeric)
+* LinkedIn: [@eric-anicet-kouame](https://linkedin.com/in/eric-anicet-kouame-49029577)
+
+## Buy Me A Coffee
+
+<a href="https://www.buymeacoffee.com/boottechnou" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
