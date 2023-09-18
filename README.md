@@ -12,7 +12,7 @@ This project is based on the design made by [Chirag Mittal](https://dribbble.com
 
 ## Documentation
 
-* [Publication link](#)
+* [Publication link](https://boottechnologies-ci.medium.com/899e9d395f62?sk=3817e365f78ef02d51756f015cf5c6f8)
 
 ## App Results
 
